@@ -1,0 +1,102 @@
+* {
+    margin:  0;
+    padding: 0;
+}
+.container {
+    height: 3000px;
+}
+.layer {
+    background-color: hsl(180, 52%, 96%);
+    height: 600px;
+    width: 129%;
+    margin-bottom: 0px;
+}
+.main-screen {
+    display: flex;
+    justify-content: center;
+    
+    width: 100%;
+    background-color: hsl(180, 52%, 96%);
+}
+.main-screen1 {
+    display: flex;
+    justify-content: center;
+    /* position: relative; */
+    
+    width: 100%;
+    background-color: hsl(180, 52%, 96%);
+}
+.all-rows {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+   
+    /* border-style: solid; */
+    width: 80%;
+    margin-top: 3%;
+    background-color: white;
+
+}
+.first-row {
+    border-left: 5px solid ;
+    border-color: hsl(180, 29%, 50%);
+}
+.second-row {
+    border-left: 5px solid ;
+    border-color: hsl(180, 29%, 50%);
+}
+.dp-image {
+    margin-left: -13%;
+    margin-top: 1%;
+}
+.dp-image1 {
+    margin-left: -30%;
+}
+.all-left-segment {
+    display: block;
+    margin-left: -30%;
+    line-height: 30%;
+    padding-top: 2%;
+}
+.top-left {
+    display: flex;
+    justify-content: space-between;
+}
+.top-left1 {
+    margin-left: -200%;
+}
+.job-details {
+    display: flex;
+    justify-content: space-between;
+}
+.job-details1 {
+    display: flex;
+    /* justify-content: space-between; */
+}
+.all-right-segment {
+    display: flex;
+    justify-content: space-between;
+}
+.all-right-segment1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -30%;
+    margin-left: 100%;
+}
+.all-right-segment2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -30%;
+    margin-left: 90%;
+}
+.all-roles {
+    margin-top: 3%;
+}
+.level {
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.all-languages {
+    margin-top: 3%;
+    margin-left: 5%;
+}
